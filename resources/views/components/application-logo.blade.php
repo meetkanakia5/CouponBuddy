@@ -1,0 +1,1 @@
+<img src="{{ asset('dist/img/favicon.ico') }}" height=150 width=150 alt="">

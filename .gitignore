@@ -1,0 +1,32 @@
+/node_modules
+/public/hot
+/public/storage
+/public/uploads/image
+
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+
+
+
+
+/public/assets
+/public/js
+/public/dist
+/public/css
+<<<<<<< HEAD
+/public/uploads/*
+=======
+public/uploads/*
+public.zip
+abandoned
+>>>>>>> 758d33f69f7088c6f6525a718eb0811cfb2a0642
